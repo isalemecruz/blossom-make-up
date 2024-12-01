@@ -131,8 +131,12 @@ System.Memory.4.5.5.<br>
 System.Numerics.Vectors.4.5.0.<br>
 System.Runtime.CompilerServices.Unsafe.6.0.0.<br>
 System.Threading.Tasks.Extensions.4.5.4.<br>
-<h1> Como instalar as extenções acima v </h1>
-
+<h1> Como instalar as extenções acima  </h1>
+No Visual Studio (Interface Gráfica):.<br>
+Abra o seu projeto no Visual Studio.<br>
+Clique com o botão direito no nome do projeto (na lista à esquerda).<br>
+Escolha a opção para Gerenciar Pacotes NuGet.<br>
+Procure o nome de cada biblioteca na aba de busca, selecione a versão que você precisa e instale.<br>
 <br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
