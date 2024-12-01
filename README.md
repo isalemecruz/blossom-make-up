@@ -171,9 +171,9 @@ Visão do administrador - (https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgn
 Visão do Funcionário - (https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rlBcNah2-CQ/edit?utm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1>Alterar.</h1>
-Abaixo informações sobre o alterar do projeto
-O alterar é essencial para mudança de dados s como informações de produtos já cadastrados, como preços, marcas ,nomes, clientes, vendedores etec para atualizar as informações e manter. <br>
-sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência.<br>.
+Abaixo informações sobre o alterar do projeto.<br>
+O alterar é essencial para mudança de dados s como informações de produtos já cadastrados, como preços, marcas ,nomes, clientes, vendedores etec para atualizar as informações e manter <br>
+sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência
 Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.
 O alterar foi feito com base nas historias de usúarios, visando seus problemas e trazendo soluções eficientes
 
