@@ -106,7 +106,7 @@ Abaixo segue o arquivo com o levantamento de requisitos
 Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, com base em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos,.<br>
 procurando sempre ouvir e identificar necessidades e problemas, visando as soluções.<br>
 Abaixo segue o arquivo com as historias de usuario.<br>
-![Visualizar o PDF](uhttps://github.com/isalemecruz/blossom-make-up/blob/4d77dddf06153d4adef6b92b5703b2720b78cfef/Hist%C3%B3rias%20de%20usu%C3%A1rio.pdf)
+![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/4d77dddf06153d4adef6b92b5703b2720b78cfef/Hist%C3%B3rias%20de%20usu%C3%A1rio.pdf)
 
 <br>
 
