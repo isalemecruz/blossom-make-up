@@ -102,6 +102,7 @@ Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 Os levantamentos de requisitos foram feito com bases em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos, tambem houve pesquisas na internet.<br>
 Abaixo segue o arquivo com o levantamento de requisitos 
 ![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/8429499dd4da29bde9f945edd0829e92e0b36311/Requisitos%20(1).pdf)
+Todos os requisitos estão no arquivo acima
 
 
 <br>
@@ -110,8 +111,16 @@ Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, 
 procurando sempre ouvir e identificar necessidades e problemas, visando as soluções.<br>
 Abaixo segue o arquivo com as historias de usuario.<br>
 ![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/4d77dddf06153d4adef6b92b5703b2720b78cfef/Hist%C3%B3rias%20de%20usu%C3%A1rio.pdf)
-
+Todos  as histórias de  usuário  estão no arquivo acima  
 <br>
+Com base nos levantamentos de requisitos e nas histórias de usúario, buscamos, desenvolver da melhor forma um projeto que  seja util e funcional, atendendo as necessidades
+dos usuários.<br>
+
+
+
+
+
+
 
 
 
