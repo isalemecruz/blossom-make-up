@@ -178,8 +178,9 @@ Essa funcionalidade é crucial para manter as informações atualizadas, facilit
 O alterar foi feito com base nas historias de usúarios, visando seus problemas e trazendo soluções eficientes.<br>
 Telas do alterar :<br>
 O alteral consiste em telas nas quais o vendedor ou o administrador poderá acessar, porem cada um tera uma senha diferente para utilizar o sistema.<br>
-<h1> Descrição das telas do alterar </h1>
 <h1> </h1>
+<h1> Descrição das telas do alterar </h1>
+
  Alterar Cliente.<br>
 O objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.<br>
 
