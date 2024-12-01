@@ -96,6 +96,17 @@ Salvar o Arquivo Atual:.<br>
 Pressione Ctrl + S ou vá até o menu Arquivo > Salvar.<br>
 Salvar Todos os Arquivos do Projeto:.<br>
 Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
+<br>
+<h1> SOBRE LEVANTAMENTO DE REQUISITOS</h1>
+<br>
+Os levantamentos de requisitos foram feito com bases em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos, tambem houve pesquisas na internet.<br>
+Abaixo segue o arquivo com o levantamento de requisitos 
+<br>
+<h1> SOBRE HISTORIAS DE USUARIO</h1>
+Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, com base em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos,.<br>
+procurando sempre ouvir e identificar necessidades e problemas, visando as soluções.<br>
+Abaixo segue o arquivo com as historias de usuario.<br>
+<br>
 
 
 
