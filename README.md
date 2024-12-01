@@ -101,6 +101,9 @@ Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 <br>
 Os levantamentos de requisitos foram feito com bases em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos, tambem houve pesquisas na internet.<br>
 Abaixo segue o arquivo com o levantamento de requisitos 
+![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/8429499dd4da29bde9f945edd0829e92e0b36311/Requisitos%20(1).pdf)
+
+
 <br>
 <h1> SOBRE HISTORIAS DE USUARIO</h1>
 Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, com base em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos,.<br>
