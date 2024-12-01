@@ -6,7 +6,7 @@ A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente coloc
 <br
  >❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
-<h2>Intuito do progeto</h2>
+<h2>Intuito do projeto</h2>
 O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simplificado e mais direto, fazendo com que o administrador ou funcionário  não fique perdido ao fazer ações diárias ou cometa erros que poderão o-prejudicar.
 <br>
 <br>
