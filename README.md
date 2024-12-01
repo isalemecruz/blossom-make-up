@@ -74,7 +74,16 @@ Name: Identificador do controle no código.
 Text: Texto exibido no controle.
 Size: Tamanho do controle.
 Location: Posição no formulário.
-
+4-Adicionar Eventos
+Clique duas vezes em um controle (como um botão) para abrir o editor de código.
+O Visual Studio criará automaticamente um manipulador de eventos. 
+5-Controles Comuns
+Botão (Button): Executa uma ação quando clicado.
+Caixa de Texto (TextBox): Entrada de texto pelo usuário.
+Rótulo (Label): Exibe texto estático.
+Caixa de Seleção (CheckBox): Permite selecionar ou desmarcar opções.
+ComboBox: Lista suspensa de opções.
+DataGrid: Exibe dados tabulares.
 
 
 
