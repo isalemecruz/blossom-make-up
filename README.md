@@ -34,12 +34,19 @@ O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simpli
 <br>
 <h2>Tarefas que cada integrante do grupo realizou</h2>
 Protótipo: Isabela e laura
+<br>
 Requisitos Funcionais e não Funcionais: Náthali e Maria Fernanda
+<br>
 Hitórias de usuário: Náthali e Maria Fernanda
+<br>
 Banco de Dados: Isabela e Laura
+<br>
 Login, Cadastro de funcionário, cliente, venda, produto, marca e tipo de produto: Náthali
+<br>
 Visualização de funcionário, cliente, venda, produto, marca e tipo de produto: Laura
+<br>
 Atualização de funcionário, cliente, venda, produto, marca e tipo de produto: Maria Fernanda
+<br>
 Exclusão de funcionário, cliente, venda, produto, marca e tipo de produto: Isabela
 <br>
 <br>
