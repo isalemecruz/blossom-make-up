@@ -9,6 +9,7 @@ A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente coloc
 <h2>Intuito do progeto</h2>
 O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simplificado e mais direto, fazendo com que o administrador ou funcionário  não fique perdido ao fazer ações diárias ou cometa erros que poderão o-prejudicar.
 <br>
+<br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Abaixo estará informações de como colocar nossa base de dados no XAMPP:</h2>
@@ -29,6 +30,7 @@ O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simpli
 9- Colar o código do banco de dados e clicar em executar.<br>
 10- O banco de dados está pronto para ser usado.<br>
 <br>
+<br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Tarefas que cada integrante do grupo realizou</h2>
@@ -40,6 +42,7 @@ Login, Cadastro de funcionário, cliente, venda, produto, marca e tipo de produt
 Visualização de funcionário, cliente, venda, produto, marca e tipo de produto: Laura
 Atualização de funcionário, cliente, venda, produto, marca e tipo de produto: Maria Fernanda
 Exclusão de funcionário, cliente, venda, produto, marca e tipo de produto: Isabela
+<br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
