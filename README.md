@@ -3,12 +3,13 @@
 Ele contém um crud para funcionário, cliente, venda, tipo de produto, marca e produto e permite que o funcionário ou administrador gerencie as tabelas e os dados presentes nelas.<br>
 A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente colocada no servidor XAMPP CONTROL PANEL.
 <br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
+<br>
 <h2>Intuito do progeto</h2>
 O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simplificado e mais direto, fazendo com que o administrador ou funcionário  não fique perdido ao fazer ações diárias ou cometa erros que poderão o-prejudicar.
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
-
 <h2>Abaixo estará informações de como colocar nossa base de dados no XAMPP:</h2>
 <br>
 1- Baixar o  XAMPP CONTROL PANEL.<br>
@@ -27,7 +28,6 @@ O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simpli
 9- Colar o código do banco de dados e clicar em executar.<br>
 10- O banco de dados está pronto para ser usado.<br>
 <br>
-
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Tarefas que cada integrante do grupo realizou</h2>
@@ -35,14 +35,15 @@ Protótipo: Isabela e laura
 Requisitos Funcionais e não Funcionais: Náthali e Maria Fernanda
 Hitórias de usuário: Náthali e Maria Fernanda
 Banco de Dados: Isabela e Laura
-Login, Cadastro de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Náthali
-Visualização de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Laura
-Atualização de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Maria Fernanda
-Exclusão de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Isabela
+Login, Cadastro de funcionário, cliente, venda, produto, marca e tipo de produto: Náthali
+Visualização de funcionário, cliente, venda, produto, marca e tipo de produto: Laura
+Atualização de funcionário, cliente, venda, produto, marca e tipo de produto: Maria Fernanda
+Exclusão de funcionário, cliente, venda, produto, marca e tipo de produto: Isabela
+<br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Imagens que foram utilizadas</h2>
 fundo da página ScreenSplash:![screenSplashFundo]!(https://github.com/user-attachments/assets/e5d5654e-9d23-4c19-ab6e-58e300ea589f) <br>
- <br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
@@ -51,7 +52,9 @@ fundo nas telas de tamanho 918; 613:![fundo](https://github.com/user-attachments
 nav bar: ![vendaExclusao__1_-removebg-preview](https://github.com/user-attachments/assets/1428c78f-afe8-4a7e-a1fa-17cb0f9ff3b6)<br>
 fundo nas telas de tamanho 459; 489 :![fundo2](https://github.com/user-attachments/assets/431ed3a0-dca2-48ed-a520-680c9140693d)<br>
 1: ![1](https://github.com/user-attachments/assets/eada0090-9d32-4cff-8f19-28e60e58903f)
-
+<br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
+<br>
 <h2>Abaixo estará informações de como iniciar um projeto no Visual Studio :</h2>
 A principio é necessario verificar se possui as componentes abaixo:.<br>
  Visual Studio instalado. Versão Community ou qualquer outra versão de sua preferência.<br>
@@ -103,6 +106,8 @@ Pressione Ctrl + S ou vá até o menu Arquivo > Salvar.<br>
 Salvar Todos os Arquivos do Projeto:.<br>
 Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 <br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
+<br>
 <h1> Extenções e pacotes que foram utilizados no Visual Studio para o projeto Blossom Make Up </h1>
 Guna.UI2.winForms.2.0.4.6.<br>
 Microsoft.BcI.AsynclInterfaces8.0.0.<br>
@@ -110,8 +115,10 @@ Microsoft.Extensions.DependencyInjection.Abstractions.8.0.2
 Microsoft.Extensions.Logging.Abstractions.8.0.2.<br>
 MySqlConnector.2.4.0.<br>
 System.Buffers.4.5.1
-
 <br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
+<br>
+
 <h1> SOBRE LEVANTAMENTO DE REQUISITOS</h1>
 <br>
 Os levantamentos de requisitos foram feito com bases em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos, tambem houve pesquisas na internet.<br>
@@ -120,7 +127,8 @@ Abaixo segue o arquivo com o levantamento de requisitos
 Todos os requisitos estão no arquivo acima
 
 
-
+<br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h1> SOBRE HISTÓRIAS DE USUÁRIO</h1>
 Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, com base em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos,.<br>
@@ -131,12 +139,12 @@ Todos  as histórias de  usuário  estão no arquivo acima
 <br>
 Com base nos levantamentos de requisitos e nas histórias de usúario, buscamos, desenvolver da melhor forma um projeto que  seja util e funcional, atendendo as necessidades
 dos usuários.<br>
-
+<br>
+❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
+<br>
 <h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.</h1>
-
- 
 Visão do administrador - (https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgnED7twOZ7eA/edit?utm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+<br>
 Visão do Funcionário - (https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rlBcNah2-CQ/edit?utm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
