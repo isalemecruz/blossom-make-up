@@ -25,6 +25,7 @@ A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente coloc
 9- Colar o código do banco de dados e clicar em executar.<br>
 10- O banco de dados está pronto para ser usado.<br>
 <br>
+
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Tarefas que cada integrante do grupo realizou</h2>
@@ -37,6 +38,9 @@ Visualização de funcionário, cliente, venda, produto, marca , tipo de produto
 Atualização de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Maria Fernanda
 Exclusão de funcionário, cliente, venda, produto, marca , tipo de produto e produto: Isabela
 <br>
+<h2>Imagens que foram utilizadas</h2>
+fundo da página ScreenSplash:![screenSplashFundo]!(https://github.com/user-attachments/assets/e5d5654e-9d23-4c19-ab6e-58e300ea589f) <br>
+ <br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
