@@ -47,6 +47,34 @@ fundo nas telas de tamanho 459; 489 :![fundo2](https://github.com/user-attachmen
 1: ![1](https://github.com/user-attachments/assets/eada0090-9d32-4cff-8f19-28e60e58903f)
 
 <h2>Abaixo estará informações de como iniciar um projeto no Visual Studio :</h2>
+A principio é necessario verificar se possui as componentes abaixo:
+ Visual Studio instalado. Versão Community ou qualquer outra versão de sua preferência.
+.NET SDK configurado (geralmente já incluso no Visual Studio).
+ O Passo a Passo
+1- Criar o Projeto
+Abra o Visual Studio.
+No menu inicial, clique em "Criar um novo projeto".
+Escolha o tipo de projeto:
+Para um aplicativo console: selecione "Aplicativo de console (.NET Core)".
+Para outros tipos (ex.: desktop, web): escolha o modelo adequado.
+Clique em "Avançar".
+2- Configuração  do Projeto
+Nome do Projeto: Dê um nome ao seu projeto (ex:Blossommakeup).
+Localização: Escolha o diretório onde o projeto será salvo.
+Nome da Solução: Geralmente, o mesmo que o nome do projeto.
+Clique em "Criar".
+3-Para criar o Desgin:
+Clique na aba "Designer" para abrir o editor visual da interface.
+No menu "Caixa de Ferramentas" (geralmente no lado direito):
+Procure por elementos como Botão, TextBox, Label, etc.
+Arraste o controle desejado para o formulário.
+4- Para Configurar Propriedades
+Com o controle selecionado, use a janela Propriedades para modificar:
+Name: Identificador do controle no código.
+Text: Texto exibido no controle.
+Size: Tamanho do controle.
+Location: Posição no formulário.
+
 
 
 
