@@ -101,9 +101,10 @@ Pressione Ctrl + S ou vá até o menu Arquivo > Salvar.<br>
 Salvar Todos os Arquivos do Projeto:.<br>
 Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 <br>
-<h1> Extenções e pacotes que foram usados no Visual Studio para o projeto blossom </h1>
+<h1> Extenções e pacotes que foram utilizados no Visual Studio para o projeto Blossom Make Up </h1>
 Guna.UI2.winForms.2.0.4.6.<br>
 Microsoft.BcI.AsynclInterfaces8.0.0.<br>
+Microsoft.Extensions.DependencyInjection.Abstractions.8.0.2
 Microsoft.Extensions.Logging.Abstractions.8.0.2.<br>
 MySqlConnector.2.4.0.<br>
 System.Buffers.4.5.1
