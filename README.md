@@ -101,12 +101,21 @@ Pressione Ctrl + S ou vá até o menu Arquivo > Salvar.<br>
 Salvar Todos os Arquivos do Projeto:.<br>
 Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 <br>
+<h1> Extenções e pacotes que foram usados no Visual Studio para o projeto blossom </h1>
+Guna.UI2.winForms.2.0.4.6.<br>
+Microsoft.BcI.AsynclInterfaces8.0.0.<br>
+Microsoft.Extensions.Logging.Abstractions.8.0.2.<br>
+MySqlConnector.2.4.0.<br>
+System.Buffers.4.5.1
+
+<br>
 <h1> SOBRE LEVANTAMENTO DE REQUISITOS</h1>
 <br>
 Os levantamentos de requisitos foram feito com bases em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos, tambem houve pesquisas na internet.<br>
 Abaixo segue o arquivo com o levantamento de requisitos 
 ![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/8429499dd4da29bde9f945edd0829e92e0b36311/Requisitos%20(1).pdf)
 Todos os requisitos estão no arquivo acima
+
 
 
 <br>
@@ -120,12 +129,12 @@ Todos  as histórias de  usuário  estão no arquivo acima
 Com base nos levantamentos de requisitos e nas histórias de usúario, buscamos, desenvolver da melhor forma um projeto que  seja util e funcional, atendendo as necessidades
 dos usuários.<br>
 
-<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema..<br>
+<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.</h1>h1>
 
  
-Visão do administrador - https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgnED7twOZ7eA/edit?utm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Visão do administrador - (https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgnED7twOZ7eA/edit?utm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Visão do Funcionário - https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rlBcNah2-CQ/edit?utm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Visão do Funcionário - (https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rlBcNah2-CQ/edit?utm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
