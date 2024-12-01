@@ -122,8 +122,10 @@ dos usuários.<br>
 
 <h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema..<br>
 
+ 
+Visão do administrador - https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgnED7twOZ7eA/edit?utm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-
+Visão do Funcionário - https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rlBcNah2-CQ/edit?utm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
