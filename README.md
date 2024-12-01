@@ -180,35 +180,63 @@ Telas do alterar :<br>
 O alteral consiste em telas nas quais o vendedor ou o administrador poderá acessar, porem cada um tera uma senha diferente para utilizar o sistema.<br>
 <h1> Descrição das telas do alterar </h1>
 <h1> </h1>
- Alterar Cliente
-O título deixa claro que o objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.
+ Alterar Cliente.<br>
+O objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.<br>
 
-Campos Disponíveis:
-Os campos na tela permitem ao usuário visualizar e modificar os seguintes dados do cliente:
+Campos Disponíveis:.<br>
+Os campos na tela permitem ao usuário visualizar e modificar os seguintes dados do cliente:.<br>
 
-ID: Identificação única do cliente (geralmente usada para localizar o registro no banco de dados).
-Nome: Nome do cliente.
-CPF: Cadastro de Pessoa Física .
-Telefone: Número de contato do cliente.
-Email: Endereço de e-mail do cliente.
-Botão "Alterar":
-Ao preencher ou editar os campos necessários e clicar no botão "Alterar", o sistema atualiza as informações do cliente no banco de dados.
+ID: Identificação única do cliente (geralmente usada para localizar o registro no banco de dados).<br>
+Nome: Nome do cliente.<br>
+CPF: Cadastro de Pessoa Física .<br>
+Telefone: Número de contato do cliente.<br>
+Email: Endereço de e-mail do cliente.<br>
+Botão "Alterar":<br>
+Ao preencher ou editar os campos necessários e clicar no botão "Alterar", o sistema atualiza as informações do cliente no banco de dados.<br>
 
-Funcionamento Geral:
-Busca de Dados Existentes:
-O ID do cliente geralmente é usado para localizar os dados já cadastrados. Ao inserir o ID, o sistema pode carregar automaticamente as informações do cliente nos campos correspondentes.
+Funcionamento Geral:<br>
+Busca de Dados Existentes:<br>
+O ID do cliente geralmente é usado para localizar os dados já cadastrados. Ao inserir o ID, o sistema pode carregar automaticamente as informações do cliente nos campos correspondentes.<br>
 
-Edição dos Dados:
-O usuário pode alterar qualquer um dos campos (ex.: corrigir um número de telefone ou atualizar o email).
+Edição dos Dados:<br>
+O usuário pode alterar qualquer um dos campos (ex.: corrigir um número de telefone ou atualizar o email).<br>
 
-Confirmação da Alteração:
-Ao clicar no botão "Alterar", as novas informações são validadas (ex.: verificar se o CPF ou email é válido) e atualizadas no banco de dados.
+Confirmação da Alteração:<br>
+Ao clicar no botão "Alterar", as novas informações são validadas (ex.: verificar se o CPF ou email é válido) e atualizadas no banco de dados.<br>
 
-Mensagem de Feedback:
-Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da operação ou informando erros (ex.: ID não encontrado).
+Mensagem de Feedback:<br>
+Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da operação ou informando erros (ex.: ID não encontrado).<br>
 <h1> </h1>
- Alterar Funcionario
-.
+ Alterar Funcionario<br>
+A  tela é destinada à atualização das informações de um funcionário já existente no banco de dados.<br>
+
+Campos Disponíveis:<br>
+A tela apresenta campos que permitem ao usuário visualizar e editar as seguintes informações do funcionário:<br>
+
+ID: Código de identificação único para localizar o registro do funcionário.<br>
+Nome: Nome completo do funcionário.<br>
+CPF: Cadastro de Pessoa Física (documento usado para identificar o funcionário de forma única no Brasil).<br>
+Salário: Valor do salário associado ao funcionário.<br>
+CEP: Código postal do endereço do funcionário<br>.
+Número da Casa: Informação sobre o número residencial do funcionário.<br>
+Email: Endereço de e-mail para contato.<br>
+Botão "Alterar":<br>
+O botão confirma as alterações feitas nos campos, atualizando os dados no banco de dados.<br>
+
+Funcionamento Geral:<br>
+Localizar o Funcionário:<br>
+O ID é usado para identificar o funcionário cujo registro será alterado. O sistema pode preencher automaticamente os campos com os dados atuais desse funcionário.<br>
+
+Editar Informações:
+O usuário pode alterar os campos necessários, como o salário, endereço ou email, corrigindo informações ou atualizando dados desatualizados.
+
+Salvar Alterações:<br>
+Ao clicar no botão "Alterar", o sistema valida os dados (ex.: verificar CPF ou formato do email) e salva as novas informações no banco de dados.<br>
+
+Mensagem de Confirmação:<br>
+Após a alteração, o sistema pode exibir uma mensagem indicando o sucesso da operação ou informar erros, como um ID inválido.<br>
+<h1> </h1>
+ Alterar Produto.<br>
 
 
 
