@@ -131,6 +131,8 @@ System.Memory.4.5.5.<br>
 System.Numerics.Vectors.4.5.0.<br>
 System.Runtime.CompilerServices.Unsafe.6.0.0.<br>
 System.Threading.Tasks.Extensions.4.5.4.<br>
+<h1> Como instalar as extenções acima v </h1>
+
 <br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
