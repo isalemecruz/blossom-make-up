@@ -90,8 +90,14 @@ Abra o arquivo Program.cs e edite o código como desejar.<br>
 7- Compilando e Executando<br>
 Clique no botão "Executar" (ou pressione F5 para executar no modo de depuração).<br>
 Se estiver criando um aplicativo de console, a saída aparecerá no terminal do Visual Studio.<br>
+8- Para Salvar o projeto.<br>
+Para garantir que o projeto esteja sempre atualizado com as últimas mudanças:.<br>
+Salvar o Arquivo Atual:.<br>
+Pressione Ctrl + S ou vá até o menu Arquivo > Salvar.<br>
+Salvar Todos os Arquivos do Projeto:.<br>
+Pressione Ctrl + Shift + S ou vá até o menu Arquivo > Salvar Tudo.<br>
 
-.
+
 
 
 
