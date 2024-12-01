@@ -30,7 +30,6 @@ O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simpli
 9- Colar o código do banco de dados e clicar em executar.<br>
 10- O banco de dados está pronto para ser usado.<br>
 <br>
-<br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h2>Tarefas que cada integrante do grupo realizou</h2>
@@ -56,6 +55,7 @@ fundo nas telas de tamanho 918; 613:![fundo](https://github.com/user-attachments
 nav bar: ![vendaExclusao__1_-removebg-preview](https://github.com/user-attachments/assets/1428c78f-afe8-4a7e-a1fa-17cb0f9ff3b6)<br>
 fundo nas telas de tamanho 459; 489 :![fundo2](https://github.com/user-attachments/assets/431ed3a0-dca2-48ed-a520-680c9140693d)<br>
 1: ![1](https://github.com/user-attachments/assets/eada0090-9d32-4cff-8f19-28e60e58903f)
+<br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
@@ -125,6 +125,7 @@ System.Numerics.Vectors.4.5.0.<br>
 System.Runtime.CompilerServices.Unsafe.6.0.0.<br>
 System.Threading.Tasks.Extensions.4.5.4.<br>
 <br>
+<br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 
@@ -135,7 +136,7 @@ Abaixo segue o arquivo com o levantamento de requisitos
 ![Visualizar o PDF](https://github.com/isalemecruz/blossom-make-up/blob/8429499dd4da29bde9f945edd0829e92e0b36311/Requisitos%20(1).pdf)
 Todos os requisitos estão no arquivo acima
 
-
+<br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
