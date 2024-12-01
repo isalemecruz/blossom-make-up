@@ -129,7 +129,7 @@ Todos  as histórias de  usuário  estão no arquivo acima
 Com base nos levantamentos de requisitos e nas histórias de usúario, buscamos, desenvolver da melhor forma um projeto que  seja util e funcional, atendendo as necessidades
 dos usuários.<br>
 
-<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.</h1>h1>
+<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.</h1>
 
  
 Visão do administrador - (https://www.canva.com/design/DAGUJRTGtCs/f56iJomWHDgnED7twOZ7eA/edit?utm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
