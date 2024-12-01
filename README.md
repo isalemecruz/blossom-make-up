@@ -1,6 +1,6 @@
 <h1>Sistema para uma loja de maquiagem em linguagem C# ❀</h1>
 <br>
-Ele contém um crud para funcionário, cliente, venda, tipo de produto, marca e produto e permite que o funcionário ou administrador gerencie o estoque por meio do sistema também.<br>
+Ele contém um crud para funcionário, cliente, venda, tipo de produto, marca e produto e permite que o funcionário ou administrador gerencie.<br>
 A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente colocada no servidor XAMPP CONTROL PANEL.
 <br>
 <br>
@@ -119,6 +119,8 @@ Todos  as histórias de  usuário  estão no arquivo acima
 <br>
 Com base nos levantamentos de requisitos e nas histórias de usúario, buscamos, desenvolver da melhor forma um projeto que  seja util e funcional, atendendo as necessidades
 dos usuários.<br>
+
+<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema..<br>
 
 
 
