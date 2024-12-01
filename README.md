@@ -176,6 +176,39 @@ O alterar é essencial para mudança de dados  como informações de produtos j�
 sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência.<br>
 Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.<br>
 O alterar foi feito com base nas historias de usúarios, visando seus problemas e trazendo soluções eficientes.<br>
+Telas do alterar :<br>
+O alteral consiste em telas nas quais o vendedor ou o administrador poderá acessar, porem cada um tera uma senha diferente para utilizar o sistema.<br>
+<h1> Descrição das telas do alterar </h1>
+<h1> </h1>
+ Alterar Cliente
+O título deixa claro que o objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.
+
+Campos Disponíveis:
+Os campos na tela permitem ao usuário visualizar e modificar os seguintes dados do cliente:
+
+ID: Identificação única do cliente (geralmente usada para localizar o registro no banco de dados).
+Nome: Nome do cliente.
+CPF: Cadastro de Pessoa Física .
+Telefone: Número de contato do cliente.
+Email: Endereço de e-mail do cliente.
+Botão "Alterar":
+Ao preencher ou editar os campos necessários e clicar no botão "Alterar", o sistema atualiza as informações do cliente no banco de dados.
+
+Funcionamento Geral:
+Busca de Dados Existentes:
+O ID do cliente geralmente é usado para localizar os dados já cadastrados. Ao inserir o ID, o sistema pode carregar automaticamente as informações do cliente nos campos correspondentes.
+
+Edição dos Dados:
+O usuário pode alterar qualquer um dos campos (ex.: corrigir um número de telefone ou atualizar o email).
+
+Confirmação da Alteração:
+Ao clicar no botão "Alterar", as novas informações são validadas (ex.: verificar se o CPF ou email é válido) e atualizadas no banco de dados.
+
+Mensagem de Feedback:
+Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da operação ou informando erros (ex.: ID não encontrado).
+<h1> </h1>
+ Alterar Funcionario
+.
 
 
 
