@@ -174,7 +174,7 @@ Visão do Funcionário - (https://www.canva.com/design/DAGVLL44eD8/xTwsAlhCct4rl
 Abaixo informações sobre o alterar do projeto:<br>
 O alterar é essencial para mudança de dados  como informações de produtos já cadastrados, como preços, marcas ,nomes, clientes, vendedores etec para atualizar as informações e manter
 sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência.<br>
-Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.
+Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.<br>
 O alterar foi feito com base nas historias de usúarios, visando seus problemas e trazendo soluções eficientes.<br>
 
 
