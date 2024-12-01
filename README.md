@@ -105,7 +105,7 @@ Abaixo segue o arquivo com o levantamento de requisitos
 
 
 <br>
-<h1> SOBRE HISTORIAS DE USUARIO</h1>
+<h1> SOBRE HISTÓRIAS DE USUÁRIO</h1>
 Assim como os levantamentos de requisitos as hitorias de usuarios foram feitas, com base em conversas com pessoas que trabalham em lojas de maquiagem e cosmeticos,.<br>
 procurando sempre ouvir e identificar necessidades e problemas, visando as soluções.<br>
 Abaixo segue o arquivo com as historias de usuario.<br>
