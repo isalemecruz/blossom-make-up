@@ -118,7 +118,12 @@ Microsoft.BcI.AsynclInterfaces8.0.0.<br>
 Microsoft.Extensions.DependencyInjection.Abstractions.8.0.2
 Microsoft.Extensions.Logging.Abstractions.8.0.2.<br>
 MySqlConnector.2.4.0.<br>
-System.Buffers.4.5.1
+System.Buffers.4.5.1..<br>
+System.Diagnostics.DiagnosticSource.8.0.1.<br>
+System.Memory.4.5.5.<br>
+System.Numerics.Vectors.4.5.0.<br>
+System.Runtime.CompilerServices.Unsafe.6.0.0.<br>
+System.Threading.Tasks.Extensions.4.5.4.<br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
