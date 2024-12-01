@@ -47,45 +47,51 @@ fundo nas telas de tamanho 459; 489 :![fundo2](https://github.com/user-attachmen
 1: ![1](https://github.com/user-attachments/assets/eada0090-9d32-4cff-8f19-28e60e58903f)
 
 <h2>Abaixo estará informações de como iniciar um projeto no Visual Studio :</h2>
-A principio é necessario verificar se possui as componentes abaixo:
- Visual Studio instalado. Versão Community ou qualquer outra versão de sua preferência.
-.NET SDK configurado (geralmente já incluso no Visual Studio).
- O Passo a Passo
-1- Criar o Projeto
-Abra o Visual Studio.
-No menu inicial, clique em "Criar um novo projeto".
-Escolha o tipo de projeto:
-Para um aplicativo console: selecione "Aplicativo de console (.NET Core)".
-Para outros tipos (ex.: desktop, web): escolha o modelo adequado.
-Clique em "Avançar".
-2- Configuração  do Projeto
-Nome do Projeto: Dê um nome ao seu projeto (ex:Blossommakeup).
-Localização: Escolha o diretório onde o projeto será salvo.
-Nome da Solução: Geralmente, o mesmo que o nome do projeto.
-Clique em "Criar".
-3-Para criar o Desgin:
-Clique na aba "Designer" para abrir o editor visual da interface.
-No menu "Caixa de Ferramentas" (geralmente no lado direito):
-Procure por elementos como Botão, TextBox, Label, etc.
-Arraste o controle desejado para o formulário.
-4- Para Configurar Propriedades
-Com o controle selecionado, use a janela Propriedades para modificar:
-Name: Identificador do controle no código.
-Text: Texto exibido no controle.
-Size: Tamanho do controle.
-Location: Posição no formulário.
-4-Adicionar Eventos
+A principio é necessario verificar se possui as componentes abaixo:.<br>
+ Visual Studio instalado. Versão Community ou qualquer outra versão de sua preferência.<br>
+.NET SDK configurado (geralmente já incluso no Visual Studio).<br>
+ O Passo a Passo.<br>
+1- Criar o Projeto.<br>
+Abra o Visual Studio.<br>
+No menu inicial, clique em "Criar um novo projeto".<br>
+Escolha o tipo de projeto:.<br>
+Para um aplicativo console: selecione "Aplicativo de console (.NET Core)".<br>
+Para outros tipos (ex.: desktop, web): escolha o modelo adequado.<br>
+Clique em "Avançar".<br>
+2- Configuração  do Projeto.<br>
+Nome do Projeto: Dê um nome ao seu projeto (ex:Blossommakeup).<br>
+Localização: Escolha o diretório onde o projeto será salvo.<br>
+Nome da Solução: Geralmente, o mesmo que o nome do projeto.<br>
+Clique em "Criar".<br>
+3-Para criar o Desgin:.<br>
+Clique na aba "Designer" para abrir o editor visual da interface.<br>
+No menu "Caixa de Ferramentas" (geralmente no lado direito):.<br>
+Procure por elementos como Botão, TextBox, Label, etc.<br>
+Arraste o controle desejado para o formulário.<br>
+4- Para Configurar Propriedades.<br>
+Com o controle selecionado, use a janela Propriedades para modificar:.<br>
+Name: Identificador do controle no código.<br>
+Text: Texto exibido no controle.<br>
+Size: Tamanho do controle.<br>
+
+Location: Posição no formulário.<br>
+4-Adicionar Eventos.<br>
 Clique duas vezes em um controle (como um botão) para abrir o editor de código.
-O Visual Studio criará automaticamente um manipulador de eventos. 
-5-Controles Comuns
-Botão (Button): Executa uma ação quando clicado.
-Caixa de Texto (TextBox): Entrada de texto pelo usuário.
-Rótulo (Label): Exibe texto estático.
-Caixa de Seleção (CheckBox): Permite selecionar ou desmarcar opções.
-ComboBox: Lista suspensa de opções.
+O Visual Studio criará automaticamente um manipulador de eventos.<br>
+5-Controles Comuns.<br>
+Botão (Button): Executa uma ação quando clicado.<br>
+Caixa de Texto (TextBox): Entrada de texto pelo usuário.<br>
+Rótulo (Label): Exibe texto estático.<br>
+Caixa de Seleção (CheckBox): Permite selecionar ou desmarcar opções.<br>
+ComboBox: Lista suspensa de opções.<br>
 DataGrid: Exibe dados tabulares.
+6- Escrevendo o código.<br>
+Abra o arquivo Program.cs e edite o código como desejar.<br>
+7- Compilando e Executando<br>
+Clique no botão "Executar" (ou pressione F5 para executar no modo de depuração).<br>
+Se estiver criando um aplicativo de console, a saída aparecerá no terminal do Visual Studio.<br>
 
-
+.
 
 
 
