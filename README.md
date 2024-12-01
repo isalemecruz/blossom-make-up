@@ -137,7 +137,7 @@ Abaixo segue o arquivo com o levantamento de requisitos
 Todos os requisitos estão no arquivo acima
 
 <br>
-<br>
+
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
 <h1> SOBRE HISTÓRIAS DE USUÁRIO</h1>
