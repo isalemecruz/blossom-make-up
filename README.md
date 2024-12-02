@@ -211,7 +211,7 @@ Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da
 <br>
 <h1> </h1>
  ALTERAR FUNCIONARIO<br>
- Imagem ALTERAR FUNCIONARIO ![image]()<br>
+ Imagem ALTERAR FUNCIONARIO ![image](https://github.com/isalemecruz/blossom-make-up/blob/7ae3e721e27384f94757bbd0333e69616fa00dee/alterarfuncionario.png)<br>
 A  tela é destinada à atualização das informações de um funcionário já existente no banco de dados.<br>
 
 Campos Disponíveis:<br>
@@ -242,6 +242,7 @@ Após a alteração, o sistema pode exibir uma mensagem indicando o sucesso da o
 <br>
 <h1> </h1>
  ALTERAR PRODUTO.<br>
+ Imagem ALTERAR PRODUTO ![image]()<br>
 Essa tela é  responsável pela funcionalidade de alterar os dados de um produto já cadastrado no sistema. Abaixo está a explicação detalhada:.<br>
 
 Elementos da Tela:<br>
