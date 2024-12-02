@@ -1,4 +1,4 @@
-<h1>Sistema para uma loja de maquiagem em linguagem C# ❀<h1>
+<h1>Sistema para uma loja de maquiagem em linguagem C# ❀</h1>
 <br>
 Ele contém um crud para funcionário, cliente, venda, tipo de produto, marca e produto e permite que o funcionário ou administrador gerencie as tabelas e os dados presentes nelas.br
 A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente colocada no servidor XAMPP CONTROL PANEL.
@@ -6,6 +6,8 @@ A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente coloc
  <br>
  ❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。
 <br>
+<br>
+
 h2Intuito do projetoh2
 O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simplificado e mais direto, fazendo com que o administrador ou funcionário  não fique perdido ao fazer ações diárias ou cometa erros que poderão o-prejudicar.
 <br>
