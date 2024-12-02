@@ -182,7 +182,7 @@ O alteral consiste em telas nas quais o vendedor ou o administrador poderá aces
 <h1> Descrição das telas do alterar </h1>
 <br>
 ALTERAR CLIENTE.<br>
-Imagem ALTERAR CLIENTE ![image]()<br>
+Imagem ALTERAR CLIENTE ![image](https://github.com/isalemecruz/blossom-make-up/blob/93ad458c3da883a0be76a35c9b0994ec58edc8ea/alterarcliente.jpg)<br>
 O objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.<br>
 
 Campos Disponíveis:.<br>
@@ -211,6 +211,7 @@ Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da
 <br>
 <h1> </h1>
  ALTERAR FUNCIONARIO<br>
+ Imagem ALTERAR FUNCIONARIO ![image]()<br>
 A  tela é destinada à atualização das informações de um funcionário já existente no banco de dados.<br>
 
 Campos Disponíveis:<br>
