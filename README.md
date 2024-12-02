@@ -180,7 +180,7 @@ Telas do alterar :<br>
 O alteral consiste em telas nas quais o vendedor ou o administrador poderá acessar, porem cada um tera uma senha diferente para utilizar o sistema.<br>
 <h1> </h1>
 <h1> Descrição das telas do alterar </h1>
-
+<br>
 ALTERAR CLIENTE.<br>
 O objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.<br>
 
@@ -207,6 +207,7 @@ Ao clicar no botão "Alterar", as novas informações são validadas (ex.: verif
 
 Mensagem de Feedback:<br>
 Após a alteração, o sistema pode exibir uma mensagem confirmando o sucesso da operação ou informando erros (ex.: ID não encontrado).<br>
+<br>
 <h1> </h1>
  ALTERAR FUNCIONARIO<br>
 A  tela é destinada à atualização das informações de um funcionário já existente no banco de dados.<br>
@@ -228,14 +229,15 @@ Funcionamento Geral:<br>
 Localizar o Funcionário:<br>
 O ID é usado para identificar o funcionário cujo registro será alterado. O sistema pode preencher automaticamente os campos com os dados atuais desse funcionário.<br>
 
-Editar Informações:
-O usuário pode alterar os campos necessários, como o salário, endereço ou email, corrigindo informações ou atualizando dados desatualizados.
+Editar Informações:<br>
+O usuário pode alterar os campos necessários, como o salário, endereço ou email, corrigindo informações ou atualizando dados desatualizados.<br>
 
 Salvar Alterações:<br>
 Ao clicar no botão "Alterar", o sistema valida os dados (ex.: verificar CPF ou formato do email) e salva as novas informações no banco de dados.<br>
 
 Mensagem de Confirmação:<br>
 Após a alteração, o sistema pode exibir uma mensagem indicando o sucesso da operação ou informar erros, como um ID inválido.<br>
+<br>
 <h1> </h1>
  ALTERAR PRODUTO.<br>
 Essa tela é  responsável pela funcionalidade de alterar os dados de um produto já cadastrado no sistema. Abaixo está a explicação detalhada:.<br>
@@ -256,18 +258,19 @@ Marca: Marca do produto (ex.: Maybelline), também apresentada como um campo de 
 Botão "Alterar":<br>
 O botão executa a atualização dos dados do produto no banco de dados, aplicando as mudanças feitas nos campos.<br>
 
-Funcionamento Geral:
-Identificação do Produto:
-O ID é usado para localizar o produto que será alterado. Quando o ID é informado, o sistema pode carregar automaticamente os dados atuais nos campos da tela.
+Funcionamento Geral:.<br>
+Identificação do Produto:.<br>
+O ID é usado para localizar o produto que será alterado. Quando o ID é informado, o sistema pode carregar automaticamente os dados atuais nos campos da tela.<br>
 
-Alteração das Informações:
-O usuário pode editar qualquer campo necessário, como corrigir o nome do produto, ajustar o preço, alterar a quantidade em estoque ou atualizar o tipo e a marca.
+Alteração das Informações:<br>
+O usuário pode editar qualquer campo necessário, como corrigir o nome do produto, ajustar o preço, alterar a quantidade em estoque ou atualizar o tipo e a marca.<br>
 
-Confirmação das Alterações:
-Ao clicar no botão "Alterar", o sistema valida os dados (ex.: verificar se o preço é um valor numérico positivo) e salva as alterações no banco de dados.
+Confirmação das Alterações:<br>
+Ao clicar no botão "Alterar", o sistema valida os dados (ex.: verificar se o preço é um valor numérico positivo) e salva as alterações no banco de dados.<br>
 
-Mensagem de Feedback:
+Mensagem de Feedback:<br>
 Após a operação, o sistema exibe uma mensagem indicando se as alterações foram feitas com sucesso ou se houve algum erro (ex.: ID inválido ou campos obrigatórios não preenchidos).<br>
+<br>
 <h1> </h1>
  ALTERAR VENDA<br>
 
