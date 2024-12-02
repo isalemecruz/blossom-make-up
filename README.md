@@ -295,6 +295,21 @@ Este projeto é uma aplicação Windows Forms em C# para cadastrar produtos em u
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+## Estrutura do Banco de Dados
+
+Certifique-se de que as tabelas abaixo existem no banco de dados `blossommakeup`:
+
+### Tabela `produto`
+```sql
+CREATE TABLE produto (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    preco DECIMAL(10, 2),
+    quantidade INT,
+    nome VARCHAR(255),
+    FK_tipo_id INT,
+    FK_marca_id INT,
+    FK_funcionario_id INT
+);
 
 
 
@@ -302,4 +317,3 @@ Este projeto é uma aplicação Windows Forms em C# para cadastrar produtos em u
 
 
 
-<h1> </h1>
