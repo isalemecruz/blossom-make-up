@@ -182,6 +182,7 @@ O alteral consiste em telas nas quais o vendedor ou o administrador poderá aces
 <h1> Descrição das telas do alterar </h1>
 <br>
 ALTERAR CLIENTE.<br>
+Imagem ALTERAR CLIENTE ![image]()<br>
 O objetivo da tela é permitir a atualização das informações de um cliente existente no banco de dados.<br>
 
 Campos Disponíveis:.<br>
