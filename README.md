@@ -137,6 +137,13 @@ Abra o seu projeto no Visual Studio.<br>
 Clique com o botão direito no nome do projeto (na lista à esquerda).<br>
 Escolha a opção para Gerenciar Pacotes NuGet.<br>
 Procure o nome de cada biblioteca na aba de busca, selecione a versão que você precisa e instale.<br>
+Usando o Gerenciador de Pacotes NuGet (Terminal no Visual Studio):.<br>
+
+Abra a ferramenta chamada Gerenciador de Pacotes NuGet dentro do Visual Studio.<br>
+No terminal, você pode digitar comandos simples para instalar as bibliotecas, especificando as versões.<br>
+Usando a linha de comando do .NET (CLI):.<br>
+
+Se você estiver trabalhando fora do Visual Studio, em um ambiente de linha de comando, pode usar a ferramenta de comando do .NET. Basta dizer ao .NET quais pacotes e versões você quer instalar.<br>
 <br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
