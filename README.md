@@ -8,7 +8,7 @@ A modelagem do banco de dados foi realizada pelo brmodelo e posteriormente coloc
 <br>
 <br>
 
-h2Intuito do projetoh2
+<h2>Intuito do projeto</h2>
 O intuito do projeto é que o gerenciamento de uma loja de maquiagem seja simplificado e mais direto, fazendo com que o administrador ou funcionário  não fique perdido ao fazer ações diárias ou cometa erros que poderão o-prejudicar.
 <br>
 <br>
@@ -172,17 +172,16 @@ Todos  as histórias de  usuário  estão no arquivo acima
 
 <br>
 ❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。
-br
-h1 Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.h1
+<br>
+<h1> Modelagem inicial do projeto, utilizamos o aplicativo Canva para ilustrar a visão do administrador e do a funcionário ao entrar no sistema.</h1>
 Visão do administrador - (httpswww.canva.comdesignDAGUJRTGtCsf56iJomWHDgnED7twOZ7eAeditutm_content=DAGUJRTGtCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-br
+<br>
 Visão do Funcionário - (httpswww.canva.comdesignDAGVLL44eD8xTwsAlhCct4rlBcNah2-CQeditutm_content=DAGVLL44eD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-h1 h1
-h1ALTERAR.h1
-Abaixo informações sobre o alterar do projetobr
+<h1>ALTERAR.</h1>
+Abaixo informações sobre o alterar do projeto
 O alterar é essencial para mudança de dados  como informações de produtos já cadastrados, como preços, marcas ,nomes, clientes, vendedores etec para atualizar as informações e manter
-sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência.br
-Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.br
+sempre os dados atualizados, o alterar permite corrigir erros ou ajustar dados sem a necessidade de excluir e recriar registros, garantindo praticidade e eficiência.
+Essa funcionalidade é crucial para manter as informações atualizadas, facilitar a gestão do catálogo e oferecer dados confiáveis para os usuários do sistema.
 O alterar foi feito com base nas historias de usúarios, visando seus problemas e trazendo soluções eficientes.br
 Telas do alterar br
 O alteral consiste em telas nas quais o vendedor ou o administrador poderá acessar, porem cada um tera uma senha diferente para utilizar o sistema.br
