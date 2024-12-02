@@ -280,6 +280,9 @@ Após a operação, o sistema exibe uma mensagem indicando se as alterações fo
 
 <h1>Cadastrar.</h1>
 A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para a organização e eficiência do sistema, permitindo registrar e gerenciar<br> informações cruciais, como produtos, vendas, marcas, tipos de produtos, clientes e funcionários. Essa funcionalidade centraliza os dados, <br>facilitando o acesso e a atualização, além de otimizar processos como controle de estoque, registro de vendas e geração de relatórios. Ao <br>oferecer um gerenciamento eficiente e reduzir erros manuais, o cadastro contribui para decisões mais assertivas e uma experiência mais <br>profissional, refletindo o compromisso do sistema em atender às necessidades da loja física de maquiagem.<br>
+# Cadastro de Produtos - BlossomMakeup
+
+Este projeto é uma aplicação Windows Forms em C# para cadastrar produtos em um banco de dados MySQL. A aplicação permite gerenciar informações de produtos, incluindo tipo, marca, preço, quantidade, e o funcionário responsável pelo cadastro.
 
 
 
