@@ -290,7 +290,11 @@ Este projeto é uma aplicação Windows Forms em C# para cadastrar produtos em u
 - **Validação de Entradas**: Valida campos obrigatórios e verifica valores numéricos para preço e quantidade.
 - **Filtro de Funcionários**: Pesquisa funcionários por nome para facilitar a seleção.
 
+## Pré-requisitos
 
+- **Ambiente de desenvolvimento**: Visual Studio
+- **Banco de dados MySQL**
+- **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
 
 
 
