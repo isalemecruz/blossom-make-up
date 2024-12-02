@@ -242,7 +242,7 @@ Após a alteração, o sistema pode exibir uma mensagem indicando o sucesso da o
 <br>
 <h1> </h1>
  ALTERAR PRODUTO.<br>
- Imagem ALTERAR PRODUTO ![image]()<br>
+ Imagem ALTERAR PRODUTO ![image](https://github.com/isalemecruz/blossom-make-up/blob/fa74a0932e01c48597ada2fd1966c3178c453c56/alterarproduto.png)<br>
 Essa tela é  responsável pela funcionalidade de alterar os dados de um produto já cadastrado no sistema. Abaixo está a explicação detalhada:.<br>
 
 Elementos da Tela:<br>
@@ -276,7 +276,7 @@ Após a operação, o sistema exibe uma mensagem indicando se as alterações fo
 <br>
 <h1> </h1>
  ALTERAR VENDA<br>
-
+ Imagem ALTERAR VENDA ![image]()<br>
 
 
 
