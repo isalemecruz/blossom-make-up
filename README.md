@@ -59,7 +59,7 @@ fundo da página ScreenSplash![screenSplashFundo]!(httpsgithub.comuser-attachmen
 <br>
 ❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。❀。• ₊°。 ❀°。
 <br>
-<h2></h2>Abaixo estará informações de como iniciar um projeto no Visual Studio </h2>
+<h2>Abaixo estará informações de como iniciar um projeto no Visual Studio </h2>
 A principio é necessario verificar se possui as componentes abaixo.<br>
  Visual Studio instalado. Versão Community ou qualquer outra versão de sua preferência.<br>
 .NET SDK configurado (geralmente já incluso no Visual Studio).<br>
